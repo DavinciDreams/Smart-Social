@@ -51,7 +51,7 @@ A self-hosted, AI-powered social media filtering application that helps prevent 
 1. Clone the repository:
 
 ```bash
-git clone &lt;repository-url&gt;
+git clone https://github.com/davincidreams/smart-social
 cd social-ai-content-curation
 ```
 
